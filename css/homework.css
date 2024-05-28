@@ -28,6 +28,7 @@ h1 + p,h2 + p{margin-bottom:20px;text-align:center;}
 .position_box .div.gray{top:100px;left:100px;background-color:#3a3a3c;}
 
 .flex_wrap .flex{display:flex;justify-content:flex-end;align-items:flex-end;height:calc(100% - 60px);}
+.flex_wrap .flex.flex1{justify-content:space-between;align-items:flex-start;}
 .box.long_width{display:flex;position: relative;justify-content:space-between;width:674px;height:300px;background-color:#3a3a3c;}
 .box.long_width .div.div2{position:relative;top:100px;}
 .box.long_width .text{position:absolute;top:0;left:0;color:#ffffff;}
